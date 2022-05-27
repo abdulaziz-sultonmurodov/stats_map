@@ -1,0 +1,77 @@
+.custom-baby {
+  width: 22px;
+  height: 22px;
+  content: url(../../images/customIcons/horse.png);
+}
+.custom-school {
+  padding: 2px;
+  width: 22px;
+  height: 22px;
+  content: url(../../images/customIcons/book.png);
+}
+.custom-university {
+  padding: 2px;
+  width: 22px;
+  height: 22px;
+  content: url(../../images/customIcons/college.png);
+}
+.custom-licey {
+  padding: 2px;
+  width: 22px;
+  height: 22px;
+  content: url(../../images/customIcons/college.png);
+}
+.custom-college {
+  padding: 2px;
+  width: 22px;
+  height: 22px;
+  content: url(../../images/customIcons/college.png);
+}
+.custom-mosque {
+  padding: 2px;
+  width: 22px;
+  height: 22px;
+  content: url(../../images/customIcons/mosque.svg);
+}
+.custom-church {
+  padding: 2px;
+  width: 22px;
+  height: 22px;
+  content: url(../../images/customIcons/church.svg);
+}
+.custom-synagogue {
+  padding: 2px;
+  width: 22px;
+  height: 22px;
+  content: url(../../images/customIcons/sinagoga.png);
+}
+.custom-shop {
+  padding: 2px;
+  width: 22px;
+  height: 22px;
+  content: url(../../images/customIcons/shop.png);
+}
+.custom-hospital {
+  padding: 2px;
+  width: 22px;
+  height: 22px;
+  content: url(../../images/customIcons/hospital.png);
+}
+.custom-medical {
+  padding: 2px;
+  width: 22px;
+  height: 22px;
+  content: url(../../images/customIcons/hospital.png);
+}
+.custom-birth {
+  padding: 2px;
+  width: 22px;
+  height: 22px;
+  content: url(../../images/customIcons/baby.png);
+}
+.custom-faceId {
+  padding: 2px;
+  width: 22px;
+  height: 22px;
+  content: url(../../images/customIcons/baby.png);
+}
